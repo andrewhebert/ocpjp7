@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Mar 02 22:32:18 CST 2014:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.10.1.1 - (1458268): instance a816c00e-0144-8636-bf6e-0000046bf4c0 
+on database directory memory:/home/ahebert/workspaces/ocpjp/concurrency/myDB with class loader sun.misc.Launcher$AppClassLoader@4a200bde 
+Loaded from file:/opt/Apache/db-derby-10.10.1.1-bin/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.7.0_51-b00
+user.dir=/home/ahebert/workspaces/ocpjp/concurrency
+os.name=Linux
+os.arch=amd64
+os.version=3.8.0-35-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
